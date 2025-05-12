@@ -1,4 +1,4 @@
-# ⚖️ LawCounsel AI
+#  LawCounsel AI
 
 **Know your rights before you sign.**  
 A RAG-based assistant that helps users understand contracts, subscriptions, and job agreements in plain language.
